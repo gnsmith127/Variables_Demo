@@ -1,0 +1,13 @@
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/bin/Debug/netcoreapp3.1/Variables_Demo.deps.json
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/bin/Debug/netcoreapp3.1/Variables_Demo.runtimeconfig.json
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/bin/Debug/netcoreapp3.1/Variables_Demo.runtimeconfig.dev.json
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/bin/Debug/netcoreapp3.1/Variables_Demo.dll
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/bin/Debug/netcoreapp3.1/Variables_Demo.pdb
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/obj/Debug/netcoreapp3.1/Variables_Demo.csproj.AssemblyReference.cache
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/obj/Debug/netcoreapp3.1/Variables_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/obj/Debug/netcoreapp3.1/Variables_Demo.AssemblyInfoInputs.cache
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/obj/Debug/netcoreapp3.1/Variables_Demo.AssemblyInfo.cs
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/obj/Debug/netcoreapp3.1/Variables_Demo.csproj.CoreCompileInputs.cache
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/obj/Debug/netcoreapp3.1/Variables_Demo.dll
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/obj/Debug/netcoreapp3.1/Variables_Demo.pdb
+/Users/giannasmith/repos/Variables_Demo/Variables_Demo/obj/Debug/netcoreapp3.1/Variables_Demo.genruntimeconfig.cache
